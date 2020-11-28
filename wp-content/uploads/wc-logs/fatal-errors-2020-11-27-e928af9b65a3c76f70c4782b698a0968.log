@@ -1,0 +1,4 @@
+2020-11-27T17:23:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\proyect\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\icongrid\icongrid.php en la línea 9
+
+2020-11-27T17:39:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\proyect\wp-includes\class-wp-hook.php en la línea 286
+

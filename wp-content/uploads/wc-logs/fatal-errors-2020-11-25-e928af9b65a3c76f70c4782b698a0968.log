@@ -1,0 +1,18 @@
+2020-11-25T17:14:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\proyect\wp-includes\formatting.php on line 251
+
+2020-11-25T17:28:01+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\proyect\wp-includes\wp-db.php on line 2024
+
+2020-11-25T17:36:25+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\proyect\wp-includes\wp-db.php on line 2024
+
+2020-11-25T17:54:10+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\proyect\wp-includes\wp-db.php on line 2024
+
+2020-11-25T18:01:14+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\proyect\wp-includes\wp-db.php on line 2024
+
+2020-11-25T23:10:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\proyect\wp-includes\wp-db.php on line 2024
+
+2020-11-25T23:12:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\proyect\wp-includes\wp-db.php on line 2024
+
+2020-11-25T23:23:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\proyect\wp-includes\wp-db.php on line 2024
+
+2020-11-25T23:24:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\proyect\wp-includes\wp-db.php on line 2024
+
